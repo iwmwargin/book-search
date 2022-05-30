@@ -37,10 +37,5 @@ const startApolloServer = async (typeDefs, resolvers) => {
 
 }
 
-// app.use(routes);
-
-db.once('open', () => {
-  app.listen(PORT, () => console.log(`🌍 Now listening on localhost:${PORT}`));
-});
 
 startApolloServer(typeDefs, resolvers);
