@@ -74,13 +74,6 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 https://fathomless-mesa-85365.herokuapp.com/
 
 
-## Photos
-
-**_Image of Site_**:
-<br>
-<img src="https://github.com/iwmwargin/budget-tracker-hawk/blob/main/images/Budget%20Hawk.png">
-<br>
-
 ## Contributors
 
 ||
